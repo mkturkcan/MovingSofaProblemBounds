@@ -1,0 +1,36 @@
+#
+# SofaBounds profile file
+#
+# Number of corridors: 5
+#
+# Slope 1:		7	24	25		(angle: 16.2602 deg)
+# Slope 2:		33	56	65		(angle: 30.5102 deg)
+# Slope 3:		119	120	169		(angle: 44.7603 deg)
+# Slope 4:		56	33	65		(angle: 59.4898 deg)
+# Slope 5:		24	7	25		(angle: 73.7398 deg)
+# Minimum final slope:	1	0	1		(angle: 90 deg)
+# Maximum final slope:	1	0	1		(angle: 90 deg)
+
+setcorr 5
+setslope 1 7 24 25
+setslope 2 33 56 65
+setslope 3 119 120 169
+setslope 4 56 33 65
+setslope 5 24 7 25
+setfinalmin 1 0 1
+setfinalmax 1 0 1
+reportevery 0 sec
+reportevery 0 iter
+reportevery 0.0001 jump
+
+# iterations: 126506235
+# time: 2802:12:58.354
+# lower bound: 160678044438594131134990137/68848057880940642304000000 = 2.333806
+# upper bound: 273312688320182793625662961/116181097674087333888000000 = 2.352471
+# lower bound witness arguments: 
+# 85277/192000, -1889/89600
+# 9133/11648, -13609/686400
+# 32617/30720, 0
+# 881623/686400, 4517/291200
+# 644251/448000, 713/38400
+# 
