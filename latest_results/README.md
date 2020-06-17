@@ -1,0 +1,1 @@
+The bounds given in this folder were generated using the [SofaBounds](https://github.com/ykallus/SofaBounds) library Theorem 9 bound 1 settings.
